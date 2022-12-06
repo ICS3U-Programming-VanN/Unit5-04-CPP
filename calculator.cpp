@@ -11,6 +11,7 @@
 #include <cmath>
 
 
+// This function calculate the value of two numbers given the operator
 float Calculate(char sign, float firstNum, float secondNum) {
     // Declared Variables
     float calculation;
